@@ -11,4 +11,6 @@ Functionaliy and MVPS
 
 In Addition, this project will include
 1) Drag and drop-able skeumorphic icons
+2) A filter bank
+3) A step sequencer outputting frequency values
 
