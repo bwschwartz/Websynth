@@ -14,3 +14,4 @@ In Addition, this project will include
 2) A filter bank
 3) A step sequencer outputting frequency values
 
+![screen_shot_2022-09-15_at_10 05 32_pm](https://user-images.githubusercontent.com/102887694/191012417-a9c8e2dc-e3c7-41d8-ab17-e8da0816e7f0.png)
